@@ -1,0 +1,50 @@
+/* jumbotron spacing */
+
+.jumbotron {
+ margin-top: 2%;
+}
+
+#postTitle, #imageLink {
+ text-align: center;
+ width: 60%;
+}
+
+#postContent {
+ text-align: center;
+ padding: 5%;
+ width: 75%;
+ resize: vertical;
+ background-color: rgba(255, 255, 255, 0.788);
+}
+
+
+.btn {
+ background-color: black;
+ color: white;
+ margin: 0.5%;
+}
+
+li {
+ padding: 2%;
+ margin: 2%;
+ text-align: left;
+}
+
+ul {
+ width: 90%;
+ height: 90%;
+ justify-content: left;
+}
+
+.isLiked {
+ color: green;
+ background-color: white;
+ text-align: left;
+}
+
+.notLiked {
+ color: black;
+ background-color: lightblue;
+ text-align: left;
+}
+
